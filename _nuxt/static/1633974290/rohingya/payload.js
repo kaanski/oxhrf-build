@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rohingya", {data:[{}],fetch:{},mutations:void 0});

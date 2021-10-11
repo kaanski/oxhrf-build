@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/right-to-roam/tour", {data:[{}],fetch:{},mutations:void 0});

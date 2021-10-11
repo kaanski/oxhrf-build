@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/right-to-roam/memory-lab/happy", {data:[{}],fetch:{},mutations:void 0});

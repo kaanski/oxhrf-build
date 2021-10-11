@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/right-to-roam/memory-lab/distressed", {data:[{}],fetch:{},mutations:void 0});

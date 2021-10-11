@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/is-anybody-listening", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/right-to-roam/tour/3-martyrs-memorial", {data:[{}],fetch:{},mutations:void 0});
